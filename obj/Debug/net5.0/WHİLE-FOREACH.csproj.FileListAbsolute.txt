@@ -1,0 +1,16 @@
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\bin\Debug\net5.0\WHİLE-FOREACH.exe
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\bin\Debug\net5.0\WHİLE-FOREACH.deps.json
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\bin\Debug\net5.0\WHİLE-FOREACH.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\bin\Debug\net5.0\WHİLE-FOREACH.runtimeconfig.dev.json
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\bin\Debug\net5.0\WHİLE-FOREACH.dll
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\bin\Debug\net5.0\ref\WHİLE-FOREACH.dll
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\bin\Debug\net5.0\WHİLE-FOREACH.pdb
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.dll
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\ref\WHİLE-FOREACH.dll
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.pdb
+C:\Users\talha\OneDrive\Masaüstü\WHİLE-FOREACH\obj\Debug\net5.0\WHİLE-FOREACH.genruntimeconfig.cache
